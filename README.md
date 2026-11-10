@@ -1,6 +1,6 @@
 ### Hi, I'm Abdelrahman 👋
 
-SQA Engineer specializing in software testing for industrial / offshore inspection systems — real-time sensor data pipelines, remote-operations software, and video/overlay capture systems. I design and run manual, smoke, regression, and negative/edge test suites, and build the formal QA documentation process around them from scratch where none existed before.
+QA Engineer specializing in software testing for industrial / offshore inspection systems — real-time sensor data pipelines, remote-operations software, and video/overlay capture systems. I design and run manual, smoke, regression, and negative/edge test suites, and build the formal QA documentation process around them from scratch where none existed before.
 
 The two case studies below are real production QA work, fully documented end to end (test plan → strategy → procedures → test case repository), with company, product, and client names anonymized for public sharing.
 
